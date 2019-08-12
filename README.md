@@ -1,4 +1,4 @@
-# fkkk-paywalls
+# Fkk Paywalls
 
 I got sick of clicking links that result in a paywall or a nagging ad. Spent 20 minutes to create an extension to just stop visiting those sites altogether.
 
