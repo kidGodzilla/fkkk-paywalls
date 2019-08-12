@@ -6,6 +6,7 @@
 
 [![Watch the video](https://thumbs.gfycat.com/CoordinatedAliveGalapagosmockingbird-size_restricted.gif)](https://gfycat.com/ifr/CoordinatedAliveGalapagosmockingbird)
 
+
 ## Installation
 
 1. Download the extension as a ZIP file.
@@ -14,6 +15,13 @@
 Here's a good guide for installing a chrome extension from source:
 
 https://blog.hunter.io/how-to-install-a-chrome-extension-without-using-the-chrome-web-store-31902c780034
+
+
+## Todos
+
+[ ] Currently, there's no way to remove a site from the bypass list (unless you're a developer). I'll change that.
+[ ] If you visit the homepage of a site that uses paywalls the extension shouldn't try to "outline" it.
+
 
 ## About
 
