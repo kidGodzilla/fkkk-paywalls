@@ -2,11 +2,17 @@
 
 I got sick of clicking links that result in a paywall or a nagging ad. Spent 20 minutes to create an extension to just stop visiting those sites altogether.
 
-1. See a paywall? Too many ads? Annoying popups? Outline it instead!
-2. Each time you use Outline, we'll ask if you want to always use Outline on a site.
-3. Skip straight to the Outline the next time you click a link on a site that uses paywalls.
+1. See a paywall? Too many ads? Annoying popups? [Outline](https://outline.com/) it instead!
+2. Each time you use [Outline](https://outline.com/), we'll ask if you want to always use [Outline](https://outline.com/) on a site.
+3. Skip straight to the [Outline](https://outline.com/) the next time you click a link on a site that uses paywalls.
 
 [![Watch the video](https://thumbs.gfycat.com/CoordinatedAliveGalapagosmockingbird-size_restricted.gif)](https://gfycat.com/ifr/CoordinatedAliveGalapagosmockingbird)
+
+## Why isn't this on the Chrome Web Store?
+
+Google has a policy for what is and isn't allowed on the Chrome Web Store. Unfortunately, they seem to twist this policy to ban any extension that helps users bypass paywalls, or reduce you exposure to certain types of advertising. 
+
+This may or may not be related to Google's primary source of revenue (advertising).
 
 
 ## Installation
