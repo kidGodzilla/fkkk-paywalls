@@ -1,5 +1,7 @@
 # fkkk-paywalls
 
+I got sick of clicking links that result in a paywall or a nagging ad. Spent 20 minutes to create an extension to just stop visiting those sites altogether.
+
 1. See a paywall? Too many ads? Annoying popups? Outline it instead!
 2. Each time you use Outline, we'll ask if you want to always use Outline on a site.
 3. Skip straight to the Outline the next time you click a link on a site that uses paywalls.
@@ -19,12 +21,10 @@ https://blog.hunter.io/how-to-install-a-chrome-extension-without-using-the-chrom
 
 ## Todos
 
-[ ] Currently, there's no way to remove a site from the bypass list (unless you're a developer). I'll change that.
-[ ] If you visit the homepage of a site that uses paywalls the extension shouldn't try to "outline" it.
+* [ ] Currently, there's no way to remove a site from the bypass list (unless you're a developer). I'll change that.
+* [ ] If you visit the homepage of a site that uses paywalls the extension shouldn't try to "outline" it.
 
 
 ## About
-
-I got sick of clicking links that result in a paywall or a nagging ad. Spent 20 minutes to create an extension to just stop visiting those sites altogether.
 
 This is a fork of https://github.com/ymolodtsov/outline with a few extra features.
